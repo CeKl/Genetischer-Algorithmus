@@ -7,7 +7,7 @@ Gegeben sind 2 LKWs, welche eine Bestimmte Menge an Objekten transportieren soll
 
 ## Gewählter Algorithmus
 
-Zur Lösung des Problems wurde ein genetischer Algorithmus gewählt. Hierbei werden die zu bestimmenden Größen in Sequenzen aus 0 und 1 codiert und mit aus der Natur bekannten Methoden der Evolution verändert, um eine optimale Lösung zu finden. Wichtig hierbei ist jedoch, dass die Lösung vom Startwert abhängig ist. Das bedeutet bei jedem Durchlauf des Algorithmus kann ein anderes Ergebnis erreicht werden. In den test wurden Ergebnisse von etwa 73000 für den Gesamtwert erzielt.
+Zur Lösung des Problems wurde ein genetischer Algorithmus gewählt. Hierbei werden die zu bestimmenden Größen in Sequenzen aus 0 und 1 codiert und mit aus der Natur bekannten Methoden der Evolution verändert, um eine optimale Lösung zu finden. Wichtig hierbei ist jedoch, dass die Lösung vom Startwert abhängig ist. Das bedeutet bei jedem Durchlauf des Algorithmus kann ein anderes Ergebnis erreicht werden. Diese Methode liefert in kurzer Zeit gut verwertbare Ergebnisse. In Tests wurden Ergebnisse in der Größenordnung 73000 für den Gesamtwert erzielt.
 
 ## Kurzanleitung
 
