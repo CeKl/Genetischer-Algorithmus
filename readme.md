@@ -74,7 +74,7 @@ Die besten Individuen + 10% zufällig ausgewählte Individuen werden in der näc
 
 ### 5. Wiederhohlen
 
-Diese Schritt werden wiederholt, bis die maximale Anzahl an Generationen oder bis derselbe Maximalwert der jeweiligen Generation mehrmals erreicht wurde.
+Diese Schritt werden wiederholt, bis die maximale Anzahl an Generationen oder bis derselbe Maximalwert der jeweiligen Generation mehrmals erreicht wurden. Anschließend wird die Beste Lösung im Terminal und als CSV_Datei (inklusive Wert in Dateiname) ausgegeben.
 
 ## Requirements
 - numpy
