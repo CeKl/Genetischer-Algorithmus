@@ -1,0 +1,24 @@
+Objekt, Anzahl,Wert,Gewicht,LKW
+"Notebook Buero 13""",0,0,0,1
+"Notebook Buero 14""",0,0,0,1
+Notebook outdoor,12,960,43500,1
+Mobiltelefon Buero,27,810,19359,1
+Mobiltelefon Outdoor,95,5700,93860,1
+Mobiltelefon Heavy Duty,110,7150,134200,1
+Tablet Buero klein,246,9840,345630,1
+Tablet Buero gross,89,3560,129495,1
+Tablet outdoor klein,15,675,25350,1
+Tablet outdoor gross,119,8092,235620,1
+LKW 0,LKW-Wert,36787,LKW-Gewicht,1027014
+"Notebook Buero 13""",0,0,0,2
+"Notebook Buero 14""",0,0,0,2
+Notebook outdoor,1,80,3625,2
+Mobiltelefon Buero,29,870,20793,2
+Mobiltelefon Outdoor,61,3660,60268,2
+Mobiltelefon Heavy Duty,109,7085,132980,2
+Tablet Buero klein,124,4960,174220,2
+Tablet Buero gross,63,2520,91665,2
+Tablet outdoor klein,22,990,37180,2
+Tablet outdoor gross,249,16932,493020,2
+LKW 1,LKW-Wert,37097,LKW-Gewicht,1013751
+Gesamtwert: ,73884,,,
