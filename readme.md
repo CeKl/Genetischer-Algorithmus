@@ -11,7 +11,7 @@ Zur Lösung des Problems wurde ein genetischer Algorithmus gewählt. Hierbei wer
 
 ## Kurzanleitung
 
-Die Datei [genetic_algorithm.py](https://github.com/CeKl/Genetischer-Algorithmus/blob/master/genetic_algorithm.py) kann entweder an sich unter Ptyhon 3 ausgeführt werden (requirements beachten) oder importiert werden. Die Hardware, welche verteilt werden soll, wird in der Datei [harware_data.csv](https://github.com/CeKl/Genetischer-Algorithmus/blob/master/harware_data.csv) nach folgendem Schema hinterlegt:
+Die Datei [genetic_algorithm.py](https://github.com/CeKl/Genetischer-Algorithmus/blob/master/genetic_algorithm.py) kann entweder an sich unter Ptyhon 3 ausgeführt werden (requirements beachten) oder importiert werden. Die Hardware, welche verteilt werden soll, wird in der Datei [hardware_data.csv](https://github.com/CeKl/Genetischer-Algorithmus/blob/master/hardware_data.csv) nach folgendem Schema hinterlegt:
 
 | Hardware           | Anzahl Einheiten [-] | Gewicht [g] | Nutzwert pro Einheit [-] |
 | ------------------ | -------------------- | ----------- | ------------------------ |
