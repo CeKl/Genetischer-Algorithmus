@@ -1,11 +1,11 @@
-# Genetischer Algorithmu für ein Zwei-Rucksack-Problem
+# Genetischer Algorithmus für ein Zwei-Rucksack-Problem
 Code for BWI - Coding Challenge
 
 ## Problemstellung
 
 Gegeben sind 2 LKWs, welche eine Bestimmte Menge an Objekten transportieren sollen. Anhand einer Liste an Objekten und Parametern der LKWs soll eine optimale Ladeliste erzeugt werden.
 
-## Gewählter Algotihmus
+## Gewählter Algorithmus
 
 Zur Lösung des Problems wurde ein genetischer Algorithmus gewählt. Hierbei werden die zu bestimmenden Größen in Sequenzen aus 0 und 1 codiert und mit aus der Natur bekannten Methoden der Evolution verändert, um eine optimale Lösung zu finden. Wichtig hierbei ist jedoch, dass die Lösung vom Startwert abhängig ist. Das bedeutet bei jedem Durchlauf des Algorithmus kann ein anderes Ergebnis erreicht werden. In den test wurden Ergebnisse von etwa 73000 für den Gesamtwert erzielt.
 
