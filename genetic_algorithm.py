@@ -329,15 +329,4 @@ if __name__ == "__main__":
     # help(genertic_algorithem())
     genertic_algorithem().run()
 
-    # test
-    #"""
-    werte = []
-    for i in range(20):
-        _, rundenwert = genertic_algorithem(show_status=False).run()
-        werte.append(rundenwert)
-        print('run test {} - Wert: {}'.format(i, rundenwert))
-
-    print(sum(werte)/len(werte))
-    #"""
-
 print('done')
